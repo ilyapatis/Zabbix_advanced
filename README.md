@@ -24,7 +24,6 @@
 3. Добавьте Zabbix Server в список разрешенных серверов ваших Zabbix Agentов
 4. Добавьте Zabbix Agentов в раздел Configuration > Hosts вашего Zabbix Servera
 5. Прикрепите за каждым хостом шаблон Linux by Zabbix Agent
-![agents](images/agents.png)
 6. Проверьте что в разделе Latest Data начали появляться данные с добавленных агентов
 
 #### Требования к результату
@@ -43,10 +42,9 @@
 ![RAM_data](images/RAM_data.png)
 ![CPU_data](images/CPU_data.png)
 ![common_data](images/common_data.png)
+![agents](images/agents.png)
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
-![templates1](images/templates1.png)
-![templates2](images/templates2.png)
  ---
 
 ### Задание 4
